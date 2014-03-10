@@ -1,6 +1,7 @@
 package entite;
 public class Atelier 
 {
+	// modif de colannie
 	private Integer noatelier;
 	private Integer nointervenant;
 	private String libelleatelier;
