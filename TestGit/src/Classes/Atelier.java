@@ -1,6 +1,7 @@
 package Classes;
 public class Atelier 
 {
+	// encore un  commentaire
 	private Integer noatelier;
 	private Integer nointervenant;
 	private String libelleatelier;
