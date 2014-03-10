@@ -1,7 +1,7 @@
 package Classes;
 public class Atelier 
 {
-	// encore un  commentaire
+	// modif après mission2
 	private Integer noatelier;
 	private Integer nointervenant;
 	private String libelleatelier;
